@@ -2,15 +2,20 @@
 This is a feature-rich todo list web application that allows users to create and manage their tasks in an organized and efficient manner. It is built using HTML, CSS, JavaScript, Node.js, Express.js, and EJS templating engine.
 
 ## Features
-Personal and Work Lists: Users can create separate lists for personal tasks and work-related tasks, enabling them to maintain a clear distinction between their professional and personal responsibilities.
+### Personal and Work Lists: 
+Users can create separate lists for personal tasks and work-related tasks, enabling them to maintain a clear distinction between their professional and personal responsibilities.
 
-### Beautiful User Interface: The application provides a visually appealing and user-friendly interface, enhancing the user experience while managing tasks.
+### Beautiful User Interface: 
+The application provides a visually appealing and user-friendly interface, enhancing the user experience while managing tasks.
 
-### Dynamic Task Creation: Users can create tasks with a title and assign them to either their personal or work list. Each task is associated with the date it was created, ensuring proper organization.
+### Dynamic Task Creation: 
+Users can create tasks with a title and assign them to either their personal or work list. Each task is associated with the date it was created, ensuring proper organization.
 
-### Task Completion Tracking: For each task, a checkbox is provided, allowing users to mark tasks as completed when finished. This feature helps users track their progress and stay on top of their commitments.
+### Task Completion Tracking: 
+For each task, a checkbox is provided, allowing users to mark tasks as completed when finished. This feature helps users track their progress and stay on top of their commitments.
 
-### Persistent Data Storage: The application utilizes a backend system to store and manage tasks. This ensures that tasks are saved across sessions, allowing users to access and update their task lists at any time.
+### Persistent Data Storage: 
+The application utilizes a backend system to store and manage tasks. This ensures that tasks are saved across sessions, allowing users to access and update their task lists at any time.
 
 ## Getting Started
 To run the application locally, follow these steps:
