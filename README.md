@@ -1,4 +1,4 @@
-#Todo List Web App
+# Todo List Web App
 This is a feature-rich todo list web application that allows users to create and manage their tasks in an organized and efficient manner. It is built using HTML, CSS, JavaScript, Node.js, Express.js, and EJS templating engine.
 
 ##Features
